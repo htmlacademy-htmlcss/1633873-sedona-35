@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Marina Panova](https://up.htmlacademy.ru/htmlcss/35/user/1633873).
-* Наставник: `Семён Якушев`.
+* Наставник: `Семён Якушев`(https://htmlacademy.ru/profile/id1118791).
 
 ---
 
