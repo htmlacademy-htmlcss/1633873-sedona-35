@@ -32,7 +32,6 @@ body {
   font-weight: 700;
   font-size: 16px;
   line-height: 20px;
-  align-items: center;
   text-align: center;
   text-transform: uppercase;
   color: #FFFFFF;
@@ -45,7 +44,6 @@ body {
   line-height: 20px;
   background-color: #756157;
   color: #FFFFFF;
-  align-items: center;
   text-align: center;
   text-transform: uppercase;
 }
@@ -71,7 +69,7 @@ body {
 }
 
 .main-index {
-  background-image: url(/1633873-sedona-35/images/sedona-background.jpg);
+  background-image: url(../images/sedona-background.jpg);
   background-size: 100% auto;
   background-repeat: no-repeat;
   background-color: #FFFFFF;
@@ -177,7 +175,7 @@ body {
 }
 
 .page-footer {
-  background-image: url(/1633873-sedona-35/images/background-mountain.jpeg);
+  background-image: url(../images/background-mountain.jpeg);
   background-size: 100% auto;
   background-color: #cc2f2f;
 }
@@ -244,7 +242,7 @@ body {
 /* Catalog */
 
 .main-inner {
-  background-image: url(/1633873-sedona-35/images/catalog-background.jpg);
+  background-image: url(../images/catalog-background.jpg);
   background-size: 100% auto;
   background-repeat: no-repeat;
   color: #FFFFFF;
@@ -348,7 +346,6 @@ body {
   font-weight: 700;
   font-size: 20px;
   line-height: 36px;
-  align-items: center;
   text-align: center;
   text-transform: uppercase;
   text-decoration: none;
